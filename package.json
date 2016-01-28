@@ -1,6 +1,6 @@
 {
   "name": "encode-decode",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Javascript object to encode and/or decode html characters using HTML or Numeric entities that handles double or partial encoding",
   "main": "index.js",
   "repository": {
