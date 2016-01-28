@@ -1,0 +1,19 @@
+{
+  "name": "encode-decode",
+  "version": "0.0.0",
+  "description": "A Javascript object to encode and/or decode html characters using HTML or Numeric entities that handles double or partial encoding",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesstelford/node-encode-decode.git"
+  },
+  "author": "Robert Reid",
+  "contributors": [
+    "Jess Telford <hi@jes.st>"
+  ],
+  "license": "(GPL-2.0 OR MIT)",
+  "bugs": {
+    "url": "https://github.com/jesstelford/node-encode-decode/issues"
+  },
+  "homepage": "https://github.com/jesstelford/node-encode-decode#readme"
+}
